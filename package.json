@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "npx http-server -p 1234",
+    "dev": "nodemon -L"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "typescript": "^4.1.3"
+  }
+}

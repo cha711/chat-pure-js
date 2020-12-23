@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "baseUrl": "./",
+    "strict": false,
+    "outDir": "js",
+    "sourceMap": false,
+    "removeComments": true,
+    "allowJs": true
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["./src/test/*"]
+}
